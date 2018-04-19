@@ -1,6 +1,0 @@
-caìc baòn vaÌo file app.config ğêÒ ğôÒi ğıõÌng dâŞn kêìt nôìi csdl
- connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Users\HuynhAnh\Downloads\LoginCf\LoginCf\LoginCf\Login.mdf;Integrated Security=True"
-bãÌng ğıõÌng dâŞn mõìi phuÌ hõòp võìi nõi chıìa csdl bên maìy baòn.
-bãÌng caìch : mõÒ  Login.mdf
-	choòn Table
-	taòi BaÒng taÌi khoaÒn choòn Properties copy lâìy ğoaòn connectionString thay vaÌo chuôŞi connectionString trong app.coonfig
